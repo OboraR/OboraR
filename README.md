@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oborar&theme=dark" />
+</div>
 
-<!--
-**OboraR/OboraR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<a href='https://github.com/OboraR'>
+  <img height=150 align="center" src="https://github-readme-stats-five-psi-51.vercel.app/api?username=oborar&show_icons=true&theme=dark&rank_icon=github" /)
+</a>
+<a href="https://github.com/OboraR">
+  <img height=150 align="center" src="https://github-readme-stats-five-psi-51.vercel.app/api/top-langs?username=oborar&layout=compact&theme=dark" /)
+</a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oborar&theme=dark&utcOffset=3" />
+</div>
